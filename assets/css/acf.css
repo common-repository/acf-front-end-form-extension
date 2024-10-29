@@ -1,0 +1,22 @@
+.acffefTooltipContainer
+{
+	position: absolute;
+	z-index: 9999;
+	width: 350px;
+	background-color: #000;
+	color: #fff;
+	padding: 10px;
+	display: none;
+}
+.acffeTbox
+{
+	width: 100%;
+}
+.acffeTable
+{
+	width: 100%;
+}
+.acffeTable td
+{
+	padding: 0px;
+}
